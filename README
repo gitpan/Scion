@@ -1,0 +1,33 @@
+NAME
+
+	Scion - Support Class for Inside-Out Nature of objects
+
+SYNOPSIS
+
+	use Scion;
+
+DESCRIPTION
+
+	This distribution provides an object system for inside-out model.
+
+	See "perldoc Scion" for the rest of the document.
+
+DEPENDENCIES
+
+	perl 5.8.1 or later.
+
+INSTALLATION
+
+	To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+COPYRIGHT AND LICENCE
+
+	Copyright (c) 2008 Goro Fuji, Some rights reserved.
+
+	This program is free software; you can redistribute it and/or
+	modify it under the same terms as Perl itself.
